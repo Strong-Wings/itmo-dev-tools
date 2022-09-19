@@ -3,7 +3,7 @@ class HelloWorld {
         System.out.println("Hello World!"); 
     }
 
-    private static int sum(int a, int b) {
-        return a + b;
+    private static int summary(int x, int y) {
+        return x + y;
     }
 }
